@@ -1,4 +1,4 @@
-Timestamp,Gender,Age,Location,Time_of_class_(pm),Duration_(min)
+Timestamp,Gender,Age,Location,Time_of_class_(pm),Duration_(m)
 1/3/2022 19:09:29,Male,16-30,Pakistan,10:30,60
 1/3/2022 19:09:33,Male,16-30,Pakistan,10:00,60
 1/3/2022 19:09:33,Male,16-30,Pakistan,10:00,30
